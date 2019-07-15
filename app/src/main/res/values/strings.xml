@@ -1,0 +1,22 @@
+<resources>
+    <!--Main Activity-->
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="btnAbout">About ALC</string>
+    <string name="btnProfile">My Profile</string>
+
+    <!--My Profile-->
+    <string name="txtName">Chimwemwe Shaba</string>
+    <string name="lblTrack">Track:</string>
+    <string name="txtTrack">Android</string>
+    <string name="lblCountry">Country:</string>
+    <string name="txtCountry">Zambia</string>
+    <string name="lblEmail">Email:</string>
+    <string name="txtEmail">chimwemweshaba@gmail.com</string>
+    <string name="lblPhone">Phone number:</string>
+    <string name="txtPhone">00260977356882</string>
+    <string name="lblSlack">Slack Username:</string>
+    <string name="txtSlack">@Chimwemwe Shaba</string>
+
+
+    <!--About ALC-->
+</resources>
